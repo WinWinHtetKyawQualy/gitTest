@@ -19,10 +19,6 @@ h1{
     margin-bottom: 25px;
 }
 
-p:nth-child(3){
-    background: #ccc;
-}
-
 p{
     margin-bottom: 20px;
     font-size: 2rem;
