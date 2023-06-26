@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
-p:nth-child(2){
+p:nth-child(3){
     background: #ccc;
+}
+
+p{
+    margin-bottom: 20px;
 }
